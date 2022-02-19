@@ -1,0 +1,1 @@
+# simple_types_of_regresion_models
